@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_d3557b0fe8c863c611b42bca858bd03a6ba58792\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SunFire\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_0b1c86b0bbca35ed40ed52a8d810d5156d9b0545\classes.dex" />
+    </item>
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_157d6d81f7cd71baa4f587c9df0d3589eed02b59\classes.dex" />
+    </item>
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c89926ce9f91ec322bb30763f6c8e7ae3d37a5c">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dbc2017d32181c098993ea2e13a5c063acd3b233\classes.dex" />
+    </item>
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_c31098a2335c269a345efc756c30c3232e524a2b\classes.dex" />
+    </item>
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_c53f5bcfb6e77b1cc6359bdae919af1ee26f0479\classes.dex" />
+    </item>
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb8e87d8836ef1628e3171cd1e60c258be104a87">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f14c907f585a897919f8f84025e49558a0e82005\classes.dex" />
+    </item>
+    <item
+        jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0b29a5f97134a0dcf5c8ed9dca824de2d9be1b78\classes.dex" />
+    </item>
+
+</items>
