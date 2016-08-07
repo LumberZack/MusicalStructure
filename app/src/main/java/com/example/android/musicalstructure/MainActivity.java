@@ -24,6 +24,17 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //Finding the Artists Button
+        View artists = findViewById(R.id.artistView);
+        //Establishing Event Listener to change the activity
+        artists.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent artistsIntent = new Intent(MainActivity.this, Artists.class);
+                startActivity(artistsIntent);
+            }
+        });
+
         //Finding the Songs Button
         View songs = findViewById(R.id.songView);
         //Establishing Event Listener to change the activity
