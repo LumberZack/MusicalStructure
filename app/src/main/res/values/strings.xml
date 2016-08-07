@@ -5,4 +5,7 @@
     <string name="songs">Songs</string>
     <string name="albums">Albums</string>
     <string name="now_playing">Now Playing</string>
+    <string name="explain_library">Here on the library page the user will have access to all their
+    music files, specifically they will have to choose which organizational method they wish to view those files
+        with. The code in this section is relatively straightforward. Most of the implementation is already done.</string>
 </resources>

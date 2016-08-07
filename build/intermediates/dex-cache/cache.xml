@@ -26,7 +26,7 @@
         jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="8c89926ce9f91ec322bb30763f6c8e7ae3d37a5c">
+        sha1="82d71382eedc2525e7f08ab64718ed71f8ee0950">
         <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dbc2017d32181c098993ea2e13a5c063acd3b233\classes.dex" />
     </item>
     <item
@@ -47,7 +47,7 @@
         jar="Z:\Projects\Android\MusicalStructure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="fb8e87d8836ef1628e3171cd1e60c258be104a87">
+        sha1="4ef776a73524ecf5f8081b78db7d0c9d59c9bed0">
         <dex dex="Z:\Projects\Android\MusicalStructure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f14c907f585a897919f8f84025e49558a0e82005\classes.dex" />
     </item>
     <item
